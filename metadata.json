@@ -1,0 +1,10 @@
+{
+  "name": "واعد IA - المستشار القانوني السعودي الذكي",
+  "short_name": "واعد IA",
+  "description": "منصة متطورة تعمل بالذكاء الاصطناعي لتقديم استشارات قانونية دقيقة بناءً على الأنظمة واللوائح المعتمدة في المملكة العربية السعودية.",
+  "theme_color": "#0a0f1e",
+  "background_color": "#0a0f1e",
+  "display": "standalone",
+  "orientation": "portrait",
+  "requestFramePermissions": []
+}
